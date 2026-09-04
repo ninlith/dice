@@ -1,1 +1,3 @@
 # dice
+
+![image](screenshot.png)
